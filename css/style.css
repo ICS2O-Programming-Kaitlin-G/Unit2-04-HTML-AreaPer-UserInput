@@ -1,0 +1,20 @@
+/* Created by: Katie
+* Created on: March 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-04-HTML-AreaPer-UserInput
+*/
+
+h1 {
+  background-color: peachpuff;
+  color: forestgreen;
+  padding: 23px;
+}
+
+body {
+  background-color: paleturquoise;
+}
+
+p {
+  color: darkolivegreen;
+  background-color: lightskyblue;
+}
