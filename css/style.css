@@ -18,3 +18,7 @@ p {
   color: darkolivegreen;
   background-color: lightskyblue;
 }
+
+img {
+  border: solid 10px darkolivegreen;
+}
